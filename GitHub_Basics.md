@@ -102,6 +102,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 * [How Git Works: Explained](https://www.youtube.com/watch?v=e9lnsKot_SQ)
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
+* [GitHub Learn](https://learn.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
